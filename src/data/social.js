@@ -1,0 +1,27 @@
+export const SocialData=[
+    {
+        platform:"Linkedin",
+        icon:require("../assets/icons/linkedin.png"),
+        link:"www.linkedin.com/in/prince-kumar-6ba280174",
+    },
+    {
+        platform:"Github",
+        icon:require("../assets/icons/github.png"),
+       link:"https://github.com/prince-git-user",
+    },
+    {
+        platform:"Instagram",
+        icon:require("../assets/icons/instagram.png"),
+        link:"www.instagram.com",
+    },
+    {
+        platform:"Facebook",
+        icon:require("../assets/icons/facebook.png"),
+        link:"www.facebook.com",
+    },
+    {
+        platform:"Twitter",
+        icon:require("../assets/icons/twitter.png"),
+        link:"www.twitter.com",
+    },
+];
